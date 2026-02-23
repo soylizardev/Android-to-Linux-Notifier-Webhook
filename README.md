@@ -32,7 +32,7 @@ sudo pacman -S nodejs libnotify libcanberra
 ```
 ### 3. Preparación del audio
 
-Para que el sonido funcione, coloca un archivo de audio (ejemplo: whatsapp.mp3) dentro de la carpeta del proyecto. El script ya está programado para buscar un archivo con ese nombre exacto.
+Si quieres un sonido personalizado, remplaza el archivo noti.mp3 que se encuentra dentro de la carpeta del proyecto por el sonido que gustes que tenga el mismo nombre. El script ya está programado para buscar un archivo con ese nombre exacto.
 
 ## 📲 Configuración en el Celular (MacroDroid)
 

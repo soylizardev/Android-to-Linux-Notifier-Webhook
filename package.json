@@ -1,0 +1,23 @@
+{
+  "name": "notificador",
+  "version": "1.0.0",
+  "description": "Una solución ligera y personalizada para recibir notificaciones de Android (WhatsApp, Telegram, etc.) directamente en tu escritorio Fedora/Linux con sonido y alertas visuales. Ideal para desarrolladores que trabajan con el móvil lejos o en silencio.",
+  "main": "server.js",
+  "scripts": {
+    "test": "node server.js",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/soylizardev/Android-to-Linux-Notifier-Webhook.git"
+  },
+  "keywords": [
+    "webhook"
+  ],
+  "author": "Miguel Lizarzado",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/soylizardev/Android-to-Linux-Notifier-Webhook/issues"
+  },
+  "homepage": "https://github.com/soylizardev/Android-to-Linux-Notifier-Webhook#readme"
+}

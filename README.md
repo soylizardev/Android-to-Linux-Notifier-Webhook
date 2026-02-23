@@ -85,7 +85,7 @@ pm2 save y pm2 startup
 
 ## 🔍 Solución de Problemas (Troubleshooting)
 
-* Puerto ocupado (EADDRINUSE): Si el puerto está en uso, límpialo con: fuser -k 8080/tcp o sudo kill -9 $(lsof -t -i:8080).
+* Puerto ocupado (EADDRINUSE): Si el puerto está en uso, límpialo con: ```fuser -k 8080/tcp``` o ```sudo kill -9 $(lsof -t -i:8080)```.
 
 * Bloqueo de Firewall: 
 

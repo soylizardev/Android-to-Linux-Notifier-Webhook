@@ -79,7 +79,7 @@ pm2 start server.js --name "notifier"
 ```
 Persistir: 
 ```
-pm2 save y pm2 startup
+pm2 save && pm2 startup
 ```
 (Sigue las instrucciones en pantalla para habilitar el inicio automático).
 
